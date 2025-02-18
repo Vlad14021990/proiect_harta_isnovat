@@ -1,2 +1,2 @@
-# proiect_harta_isnovat
-bazinul hidrografic isnovat
+# proiect_harta_cubolta
+Bazinul hidrografic Cubolta
